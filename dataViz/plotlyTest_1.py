@@ -22,11 +22,6 @@ plt.style.use('ggplot')
 
 #%% Import data
 print '...import data'
-     
-
-# testing github
-
-
     
 #%%
     
